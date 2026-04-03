@@ -78,7 +78,7 @@ export const portfolioData = {
       description: "Collaborating with professional makeup artists for creative projects since 2025. Completed dozens of high-end modeling projects.",
       gallery: [
         "/muse8.jpg", "/muse2.jpg", "/muse5.jpg", "/muse6.jpg",
-        "/muse4.jpg", "/muse4.jpg", "/muse3.jpg", "/muse1.jpg",
+        "/muse4.jpg", "/muse7.jpg", "/muse3.jpg", "/muse1.jpg",
         "/Agnesprofile.jpg"
       ]
     },
